@@ -26,6 +26,8 @@
 
   This application should be used to help manage your work team. As well as used to track your employees information, so the information you're looking for is easily accessible.
 
+  [![Watch the video]("C:\Users\Andre\OneDrive\Desktop\My-Team-Manager_Video.webm")]
+
   ## Contribution 
   _If you would like to contribute, please follow these rules, and here is how you can contribute_
   
